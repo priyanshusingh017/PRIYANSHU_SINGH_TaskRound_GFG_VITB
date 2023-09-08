@@ -1,4 +1,5 @@
-# GFC Student Chapter - VIT Bhopal 
+# GFC Student Chapter - VIT Bhopal
+
 
 This is a basic GFG Student Chapter - VIT Bhopal🎓 home page . 
 
