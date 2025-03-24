@@ -7,7 +7,7 @@ This is a **basic clone** of the **GFG Student Chapter - VIT Bhopal 🎓** home 
 - All course links and resources redirect to the official GeeksforGeeks website.  
 
 ## Live Demo  
-🌐 Check out the live demo here: [Live Demo](https://kingofdarknight.github.io/PRIYANSHU_SINGH_TaskRound_GFG_VITB/)  
+🌐 Check out the live demo here: [Live Demo](https://priyanshusingh017.github.io/PRIYANSHU_SINGH_TaskRound_GFG_VITB/)  
 
 ## Features  
 - **Replica Design**: Mimics the style of the GeeksforGeeks platform.  
